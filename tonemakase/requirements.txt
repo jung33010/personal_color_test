@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+SQLAlchemy
+pymysql
+langchain
+langchain-openai
+langchain-community
+opencv-python-headless
+pillow
+numpy
