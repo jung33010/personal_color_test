@@ -9,3 +9,5 @@ langchain-community
 opencv-python-headless
 pillow
 numpy
+datasets
+pandas
