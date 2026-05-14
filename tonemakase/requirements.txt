@@ -11,3 +11,4 @@ pillow
 numpy
 datasets
 pandas
+ipywidgets
